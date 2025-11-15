@@ -1,0 +1,25 @@
+{
+  "name": "SolPablo Token",
+  "symbol": "SPAB",
+  "description": "SPAB is a fungible SPL token created by Pablo for testing purposes on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/pabloneme/solana-token/main/spab.png",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/pabloneme/solana-token/main/spab.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
